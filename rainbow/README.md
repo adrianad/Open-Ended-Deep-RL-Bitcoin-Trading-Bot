@@ -1,3 +1,13 @@
+### This Rainbow-RL-Agent was created by Clément Perroud
+https://github.com/ClementPerroud/Rainbow-Agent
+
+I just changed some minor things to get it running and added the following:
+- utils/memories.py
+    - added different sampling modes
+
+        
+
+
 # Rainbow-RL-Agent
 Ultimate version of Reinforcement Learning **Rainbow Agent** with Tensorflow 2 from paper "Rainbow: Combining Improvements in Deep Reinforcement Learning".
 My version can handle Recurrent Neural Nets and Multi Parallelized Environments.
