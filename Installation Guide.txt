@@ -1,0 +1,20 @@
+Installation Guide
+
+Step 1: Clone Github repository
+	git clone https://github.com/adrianad/Open-Ended-Deep-RL-Bitcoin-Trading-Bot
+
+Step 2: Create venv
+	cd Open-Ended-Deep-RL-Bitcoin-Trading-Bot
+	python3 -m venv .
+	Scripts\activate
+
+Step 3: Install requirements
+	pip install -r requirements.txt
+	pip install notebook
+
+Step 4: run Jupyter
+	jupyter notebook
+
+Step 5: Use Browser to select Notebook and run code
+
+I hope this works for you, if not contact me: adrian.altermatt@students.fhnw.ch
