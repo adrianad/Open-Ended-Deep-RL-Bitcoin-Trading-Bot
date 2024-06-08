@@ -1,0 +1,12 @@
+dill==0.3.8
+gym_trading_env==0.3.3
+gymnasium==0.29.1
+matplotlib==3.8.4
+nest_asyncio==1.6.0
+numpy==1.26.4
+pandas==2.2.2
+scikit_learn==1.4.2
+seaborn==0.13.2
+ta==0.11.0
+tensorflow==2.15.1
+tqdm==4.66.2
