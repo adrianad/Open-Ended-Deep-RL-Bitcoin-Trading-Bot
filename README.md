@@ -1,4 +1,7 @@
 # Open-Ended-Deep-RL-Bitcoin-Trading-Bot
+https://doi.org/10.1109/ISCBI64586.2025.11015421
+
+
 Applied Computational Intelligence (ACI) Project
 
 
